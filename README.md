@@ -49,7 +49,8 @@ Die Analyse deckt Diskrepanzen zwischen Absatzmenge und Umsatzstärke auf.
 ### Produkt-Performance: Menge vs. Umsatz
 Während Kaffee mengenmäßig führt, zeigt die Umsatzanalyse, dass „High-Ticket“-Items (Salad, Sandwich) wirtschaftlich wichtiger sind.
 
-![Umsatz pro Produkt](path/to/revenue_chart.png)
+<img width="713" height="521" alt="clipboard" src="https://github.com/user-attachments/assets/50fda2ff-ae36-4d45-95be-370ca4a86721" />
+
 
 ### Saisonalität und Einnahmen
 Die Analyse des Zeitverlaufs zeigt stabile Einnahmen mit saisonalen Schwankungen. Der Februar wurde als umsatzschwächster Monat identifiziert (ca. 6.600 €), während der Juni am stärksten war.
