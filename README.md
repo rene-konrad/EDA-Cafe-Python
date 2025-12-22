@@ -54,9 +54,12 @@ Während Kaffee mengenmäßig führt, zeigt die Umsatzanalyse, dass „High-Tick
 
 ### Saisonalität und Einnahmen
 Die Analyse des Zeitverlaufs zeigt stabile Einnahmen mit saisonalen Schwankungen. Der Februar wurde als umsatzschwächster Monat identifiziert (ca. 6.600 €), während der Juni am stärksten war.
+<img width="704" height="468" alt="clipboard1" src="https://github.com/user-attachments/assets/dc2eabc4-f9d8-4464-9c68-44e8e06ea8f8" />
+
 
 ### Detail-Analyse: Kaufverhalten nach Standort
 Ein Scatterplot (`Quantity` vs. `Total Spent`) zeigt, dass **In-Store** Kunden tendenziell bereit sind, höhere Beträge auszugeben als Takeaway-Kunden.
+<img width="563" height="432" alt="clipboard2" src="https://github.com/user-attachments/assets/a8633861-bee3-4c3c-af8b-cc98fa40ea8f" />
 **Erkenntnis:** Das Ambiente spielt eine signifikante Rolle bei der Ausgabebereitschaft.
 
 ---
