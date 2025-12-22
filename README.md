@@ -59,7 +59,9 @@ Die Analyse des Zeitverlaufs zeigt stabile Einnahmen mit saisonalen Schwankungen
 
 ### Detail-Analyse: Kaufverhalten nach Standort
 Ein Scatterplot (`Quantity` vs. `Total Spent`) zeigt, dass **In-Store** Kunden tendenziell bereit sind, höhere Beträge auszugeben als Takeaway-Kunden.
+
 <img width="563" height="432" alt="clipboard2" src="https://github.com/user-attachments/assets/a8633861-bee3-4c3c-af8b-cc98fa40ea8f" />
+
 **Erkenntnis:** Das Ambiente spielt eine signifikante Rolle bei der Ausgabebereitschaft.
 
 ---
