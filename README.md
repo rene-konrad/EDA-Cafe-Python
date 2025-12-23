@@ -5,7 +5,7 @@ Ziel war es, Inkonsistenzen in einem Datensatz von 10.000 Transaktionen zu beheb
 
 ---
 
-## 📊 Executive Summary
+## Executive Summary
 
 Das Projekt nutzt **Python (Pandas)** für umfangreiches Data Cleaning und **Seaborn/Matplotlib** für die explorative Datenanalyse (EDA). Der ursprüngliche Datensatz enthielt zahlreiche Fehler (z.B. Text in Zahlenfeldern, fehlende Werte, logische Lücken), die vor der Analyse rekonstruiert werden mussten.
 
@@ -16,7 +16,7 @@ Das Projekt nutzt **Python (Pandas)** für umfangreiches Data Cleaning und **Sea
 
 ---
 
-## 🧠 Tools & Tech Stack
+## Tools & Tech Stack
 
 | Tool | Verwendung |
 |------|-------------|
@@ -26,7 +26,7 @@ Das Projekt nutzt **Python (Pandas)** für umfangreiches Data Cleaning und **Sea
 
 ---
 
-## 🗂️ Methodik: Die "Triangulations"-Datenbereinigung
+## Methodik: Die "Triangulations"-Datenbereinigung
 
 **Die Herausforderung:**
 Der Datensatz (`dirty_cafe_sales 2.csv`) war stark verunreinigt:
@@ -42,7 +42,7 @@ Ich habe eine Bereinigungs-Pipeline entwickelt, die fehlende Werte logisch herle
 
 ---
 
-## 📈 Analyse & Visualisierung
+## Analyse & Visualisierung
 
 Die Analyse deckt Diskrepanzen zwischen Absatzmenge und Umsatzstärke auf.
 
